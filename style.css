@@ -73,10 +73,10 @@ input[type="text"] {
     .product-item p, 
     #product-list p, 
     #cart-items p {
-        font-size: 22px !important; /* 大幅提升 */
+        font-size: 30px !important; /* 大幅提升 */
     }
     h1, h2, h3 {
-        font-size: 28px !important;
+        font-size: 40px !important;
     }
 }
 
