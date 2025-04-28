@@ -1,0 +1,1104 @@
+[
+    {
+      "name": "岩兰草①",
+      "origin": "马达加斯加",
+      "extraction": "蒸馏",
+      "capacity": "30ml",
+      "price": 220
+    },
+    {
+        "name": "岩兰草②",
+        "origin": "克罗地亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 195
+    },
+    {
+      "name": "牛至",
+      "origin": "法国",
+      "extraction": "蒸馏",
+      "capacity": "30ml",
+      "price": 165
+    },
+    {
+        "name": "橙花",
+        "origin": "阿尔卑斯山",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 298
+    },
+    {
+        "name": "榄香脂",
+        "origin": "菲律宾",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 168
+    },
+    {
+        "name": "玫瑰草",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "卡塔非",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 145
+    },
+    {
+        "name": "欧洲赤松",
+        "origin": "匈牙利",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "马缨丹",
+        "origin": "马达加斯加",
+        "extraction": "全株蒸馏",
+        "capacity": "30ml",
+        "price": 198
+    },
+    {
+        "name": "一枝黄花",
+        "origin": "加拿大",
+        "extraction": "全株蒸馏",
+        "capacity": "30ml",
+        "price": 298
+    },
+    {
+        "name": "肉豆蔻",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "胶冷杉",
+        "origin": "加拿大",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "冬青①",
+        "origin": "英国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "冬青②",
+        "origin": "德国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "当归",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "圆叶当归",
+        "origin": "法国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 208
+    },
+    {
+        "name": "白桦树",
+        "origin": "俄罗斯",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 222
+    },
+    {
+        "name": "姜①",
+        "origin": "法国",
+        "extraction": "CO2超临界",
+        "capacity": "30ml",
+        "price": 88
+    },
+    {
+        "name": "姜②",
+        "origin": "中国",
+        "extraction": "CO2超临界",
+        "capacity": "30ml",
+        "price": 88
+    },
+    {
+        "name": "姜③",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 88
+    },
+    {
+        "name": "姜④",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 160
+    },
+    {
+        "name": "椒样薄荷",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "冬季香薄荷",
+        "origin": "西班牙",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 160
+    },
+    {
+        "name": "柠檬薄荷",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "薄荷尤加利",
+        "origin": "南非",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 99
+    },
+    {
+        "name": "蓝胶尤加利",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 59
+    },
+    {
+        "name": "柠檬尤加利",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 89
+    },
+    {
+        "name": "蜡菊",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 210
+    },
+    {
+        "name": "乳香特级(有机)",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 160
+    },
+    {
+        "name": "乳香",
+        "origin": "索马里",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 248
+    },
+    {
+        "name": "黑乳香",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 180
+    },
+    {
+        "name": "肉桂",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 89
+    },
+    {
+        "name": "锡兰肉桂",
+        "origin": "斯里兰卡",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 228
+    },
+    {
+        "name": "锡兰肉桂叶",
+        "origin": "斯里兰卡",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 108
+    },
+    {
+        "name": "玫瑰天竺葵①",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "玫瑰天竺葵②",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "古巴香脂",
+        "origin": "古巴",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 108
+    },
+    {
+        "name": "马鞭酮迷迭香",
+        "origin": "南非",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "桉油醇迷迭香",
+        "origin": "摩洛哥",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 109
+    },
+    {
+        "name": "完全依兰①",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "完全依兰②",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 129
+    },
+    {
+        "name": "罗勒",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 120
+    },
+    {
+        "name": "月桂叶",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "焕颜草籽",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 482
+    },
+    {
+        "name": "花梨木",
+        "origin": "越南",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 196
+    },
+    {
+        "name": "艾草",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "岩玫瑰",
+        "origin": "法国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 388
+    },
+    {
+        "name": "安息香①",
+        "origin": "苏门答腊",
+        "extraction": "分子蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "安息香②",
+        "origin": "法国",
+        "extraction": "溶剂萃取",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "真正薰衣草①",
+        "origin": "保加利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 89
+    },
+    {
+        "name": "真正薰衣草②",
+        "origin": "法国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "甜茴香",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "愈创木",
+        "origin": "巴拉圭",
+        "extraction": "木心蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "姜黄",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "没药",
+        "origin": "索马里",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 390
+    },
+    {
+        "name": "巨香茅",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "爪洼香茅",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 69
+    },
+    {
+        "name": "柠檬香茅",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 69
+    },
+    {
+        "name": "胡萝卜籽",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 168
+    },
+    {
+        "name": "芹菜籽",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 160
+    },
+    {
+        "name": "山鸡椒",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "苏合香",
+        "origin": "印度尼西亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "杜松浆果①",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 138
+    },
+    {
+        "name": "杜松浆果②",
+        "origin": "南斯拉夫",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 210
+    },
+    {
+        "name": "杜松针叶①",
+        "origin": "巴尔干",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 268
+    },
+    {
+        "name": "杜松针叶②",
+        "origin": "南斯拉夫",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 248
+    },
+    {
+        "name": "丝柏①",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 109
+    },
+    {
+        "name": "丝柏②",
+        "origin": "西班牙",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 99
+    },
+    {
+        "name": "地中海柏木",
+        "origin": "摩洛哥",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "黑胡椒",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "甜马郁兰",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "广藿香",
+        "origin": "印度尼西亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "快乐鼠尾草",
+        "origin": "保加利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 168
+    },
+    {
+        "name": "大西洋雪松",
+        "origin": "摩洛哥",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 99
+    },
+    {
+        "name": "罗马洋甘菊",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 369
+    },
+    {
+        "name": "柠檬①",
+        "origin": "法国",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 68
+    },
+    {
+        "name": "柠檬②",
+        "origin": "意大利",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 39
+    },
+    {
+        "name": "青色佛手柑",
+        "origin": "意大利",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 180
+    },
+    {
+        "name": "黄色佛手柑",
+        "origin": "意大利",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 180
+    },
+    {
+        "name": "甜橙",
+        "origin": "巴西",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 39
+    },
+    {
+        "name": "五倍甜橙",
+        "origin": "西西里",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "红葡萄柚①",
+        "origin": "以色列",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 88
+    },
+    {
+        "name": "红葡萄柚②",
+        "origin": "南非",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 88
+    },
+    {
+        "name": "白葡萄柚",
+        "origin": "南非",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 108
+    },
+    {
+        "name": "莱姆",
+        "origin": "意大利",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 85
+    },
+    {
+        "name": "陈皮",
+        "origin": "广东新会",
+        "extraction": "果皮压榨",
+        "capacity": "30ml",
+        "price": 180
+    },
+    {
+        "name": "紫苏",
+        "origin": "巴西",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "五味子",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 188
+    },
+    {
+        "name": "川芎(有机)",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 160
+    },
+    {
+        "name": "川芎",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 122
+    },
+    {
+        "name": "厚朴",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 152
+    },
+    {
+        "name": "莪术",
+        "origin": "印度",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 139
+    },
+    {
+        "name": "人参",
+        "origin": "中国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 198
+    },
+    {
+        "name": "莎罗白樟",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 128
+    },
+    {
+        "name": "芳樟",
+        "origin": "英国",
+        "extraction": "木心蒸馏",
+        "capacity": "30ml",
+        "price": 125
+    },
+    {
+        "name": "雅丽菊",
+        "origin": "德国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "万寿菊",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 169
+    },
+    {
+        "name": "芫荽叶",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 168
+    },
+    {
+        "name": "黑云杉",
+        "origin": "加拿大",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 188
+    },
+    {
+        "name": "喜马拉雅冷杉",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 148
+    },
+    {
+        "name": "竹叶花椒",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 158
+    },
+    {
+        "name": "髯花杜鹃",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 248
+    },
+    {
+        "name": "沉香醇百里香",
+        "origin": "尼泊尔",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 118
+    },
+    {
+        "name": "百里酚百里香①",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 148
+    },
+    {
+        "name": "百里酚百里香②",
+        "origin": "西班牙",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 198
+    },
+    {
+        "name": "绿花白千层",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "茶树①",
+        "origin": "澳大利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 69
+    },
+    {
+        "name": "茶树②",
+        "origin": "澳大利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 79
+    },
+    {
+        "name": "罗文莎叶",
+        "origin": "马达加斯加",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 89
+    },
+    {
+        "name": "丁香花苞",
+        "origin": "印度尼西亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 108
+    },
+    {
+        "name": "玫瑰",
+        "origin": "保加利亚",
+        "extraction": "CO2超临界",
+        "capacity": "30ml",
+        "price": 1580
+    },
+    {
+        "name": "黑玫瑰",
+        "origin": "印度",
+        "extraction": "脂吸法",
+        "capacity": "30ml",
+        "price": 890
+    },
+    {
+        "name": "德国洋甘菊①",
+        "origin": "德国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 960
+    },
+    {
+        "name": "德国洋甘菊②",
+        "origin": "埃及",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 790
+    },
+    {
+        "name": "德国洋甘菊③",
+        "origin": "保加利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 880
+    },
+    {
+        "name": "大花茉莉",
+        "origin": "法国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 1680
+    },
+    {
+        "name": "檀香①",
+        "origin": "澳大利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 980
+    },
+    {
+        "name": "檀香②",
+        "origin": "澳大利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 860
+    },
+    {
+        "name": "檀香③",
+        "origin": "澳大利亚",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 790
+    },
+    {
+        "name": "永久花",
+        "origin": "科西嘉",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 1590
+    },
+    {
+        "name": "海茴香",
+        "origin": "科西嘉",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 790
+    },
+    {
+        "name": "黄芪",
+        "origin": "中国",
+        "extraction": "超临界",
+        "capacity": "30ml",
+        "price": 690
+    },
+    {
+        "name": "蓝艾菊",
+        "origin": "摩洛哥",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 990
+    },
+    {
+        "name": "贞洁树",
+        "origin": "法国",
+        "extraction": "蒸馏",
+        "capacity": "30ml",
+        "price": 980
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "荷荷巴",
+        "origin": "埃及",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 380
+    },
+    {
+        "name": "葡萄籽",
+        "origin": "西班牙",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 196
+    },
+    {
+        "name": "大麻籽",
+        "origin": "英国",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 180
+    },
+    {
+        "name": "紫苏籽",
+        "origin": "英国",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 140
+    },
+    {
+        "name": "橄榄油",
+        "origin": "菲律宾",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 118
+    },
+    {
+        "name": "鳄梨油",
+        "origin": "西班牙",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 298
+    },
+    {
+        "name": "山茶籽油",
+        "origin": "中国",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 260
+    },
+    {
+        "name": "椰肉油",
+        "origin": "菲律宾",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 184
+    },
+    {
+        "name": "小麦胚芽油",
+        "origin": "西班牙",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 260
+    },
+    {
+        "name": "芝麻油",
+        "origin": "中国",
+        "extraction": "基础油",
+        "capacity": "1000ml",
+        "price": 130
+    },
+    {
+        "name": "有机水飞蓟籽①",
+        "origin": "埃及",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 69
+    },
+    {
+        "name": "有机水飞蓟籽②",
+        "origin": "中国",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 59
+    },
+    {
+        "name": "分馏椰子油①",
+        "origin": "菲律宾",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 29
+    },
+    {
+        "name": "分馏椰子油②",
+        "origin": "法国",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 39
+    },
+    {
+        "name": "琼崖海棠",
+        "origin": "越南",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 89
+    },
+    {
+        "name": "沙棘果油",
+        "origin": "波兰",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 99
+    },
+    {
+        "name": "绿咖啡籽",
+        "origin": "波兰",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 245
+    },
+    {
+        "name": "猴面包树",
+        "origin": "马达加斯加",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 98
+    },
+    {
+        "name": "黑种草籽油",
+        "origin": "埃及",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 99
+    },
+    {
+        "name": "马鲁拉",
+        "origin": "南非",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 140
+    },
+    {
+        "name": "琉璃苣籽油①",
+        "origin": "中国",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 79
+    },
+    {
+        "name": "琉璃苣籽油②",
+        "origin": "英国",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 99
+    },
+    {
+        "name": "白池花籽油",
+        "origin": "英国",
+        "extraction": "基础油",
+        "capacity": "100ml",
+        "price": 139
+    },
+
+
+
+
+
+    {
+        "name": "洗发精",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "320ml左右",
+        "price": 36
+    },
+    {
+        "name": "叙利亚古皂",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "175g左右",
+        "price": 45
+    },
+
+
+
+
+
+    {
+        "name": "滴头(0.6流速含盖子)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "5个",
+        "price": 1
+    },
+    {
+        "name": "滴头(1.0流速含盖子)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "5个",
+        "price": 1
+    },
+    {
+        "name": "滴头(1.5流速含盖子)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "5个",
+        "price": 1
+    },
+    {
+        "name": "空精油瓶30ml(不含盖子和滴头)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "30ml",
+        "price": 1
+    },
+    {
+        "name": "空精油瓶50ml(不含盖子和滴头)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "50ml",
+        "price": 1.2
+    },
+    {
+        "name": "空精油瓶100ml(不含盖子和滴头)",
+        "origin": "-",
+        "extraction": "-",
+        "capacity": "100ml",
+        "price": 2
+    }
+]
+
+  

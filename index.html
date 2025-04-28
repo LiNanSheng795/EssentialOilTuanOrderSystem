@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>团购购物车系统</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>精油类产品团购价格一览</h1>
+
+  <!-- 产品列表 -->
+  <section id="product-list">
+    <h2>产品列表</h2>
+    <!-- 产品通过JS动态加载 -->
+  </section>
+
+  <!-- 购物车 -->
+  <section id="cart">
+    <h2>购物车</h2>
+    <div id="cart-items">
+      <!-- 购物车商品动态生成 -->
+    </div>
+    <h3 id="cart-total">总价：￥0</h3>
+  </section>
+
+  <!-- 收货信息 -->
+  <section id="checkout">
+    <h2>收货信息</h2>
+    <form id="order-form">
+      <label>姓名：<input type="text" id="buyer-name" required></label><br>
+      <label>电话：<input type="text" id="buyer-phone" required></label><br>
+      <label>地址：<input type="text" id="buyer-address" required></label><br>
+      <button type="submit">提交订单</button>
+    </form>
+  </section>
+
+  <script src="script.js"></script>
+
+  <section id="order-summary" style="display:none;">
+    <h2>订单详情</h2>
+    <textarea id="summary-text" rows="10" style="width:100%;"></textarea><br>
+    <button onclick="copyOrder()">复制订单信息</button>
+  </section>
+  
+</body>
+</html>
