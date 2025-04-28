@@ -68,11 +68,14 @@ input[type="text"] {
     input[type="text"] {
         width: 100%;
     }
-    .product-info p {
-        font-size: 18px; /* 新增，调大产品信息字体 */
+    .product-info p, 
+    .product-item p, 
+    #product-list p, 
+    #cart-items p {
+        font-size: 18px !important; /* 加 !important 强制生效 */
     }
     h1, h2, h3 {
-        font-size: 22px; /* 标题也可以顺便调大一点 */
+        font-size: 24px !important;
     }
 }
 
